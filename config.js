@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'folder-clock',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Intranet',
+					link: 'http://bocif-int.bankofcommerce.org',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'IT Shhhhh',
+					link: 'http://bocif-int.bankofcommerce.org/it.php',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'BAM Dashboard',
+					link: 'http://bocif-bamplus/BAMPlus/SecurityManager/Account/LogOn?ReturnUrl=%2fbamplus%2fdashboard',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'H360 Report Writer',
+					link: 'http://bocif-hrz360/bank01bi/bi/',
 				},
 			],
 		},
