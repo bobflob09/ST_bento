@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'binary',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Vshere Idaho Falls',
+					link: 'https://10.9.4.100/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'HorizonXE',
+					link: 'https://bochzprd.bankofcommerce.org:17000/HORIZON/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Office 365',
+					link: 'https://admin.microsoft.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'MaaS360',
+					link: 'https://m3.maas360.com/emc/#',
 				},
 			],
 		},
