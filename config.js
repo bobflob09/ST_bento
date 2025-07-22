@@ -4,7 +4,7 @@
 // ┌─┐┌─┐┌┐┌┌─┐┬┌─┐┬ ┬┬─┐┌─┐┌┬┐┬┌─┐┌┐┌
 // │  │ ││││├┤ ││ ┬│ │├┬┘├─┤ │ ││ ││││
 // └─┘└─┘┘└┘└  ┴└─┘└─┘┴└─┴ ┴ ┴ ┴└─┘┘└┘
-
+// Icon Site https://lucide.dev/
 const CONFIG = {
 	// ┌┐ ┌─┐┌─┐┬┌─┐┌─┐
 	// ├┴┐├─┤└─┐││  └─┐
@@ -176,6 +176,10 @@ const CONFIG = {
 					name: 'MaaS360',
 					link: 'https://m3.maas360.com/emc/#',
 				},
+				{
+					name: 'Pure Storage',
+					link: 'https://10.9.6.46/',
+				},
 			],
 		},
 	],
@@ -183,46 +187,46 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'panda',
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'VeloCloud',
+					link: 'https://vco134-usvi1.velocloud.net/ui/login',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Falcon',
+					link: 'https://falcon.crowdstrike.com/login',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'IBM Navigator',
+					link: 'http://10.9.2.87:2002/Navigator/login',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Mail Portal',
+					link: 'https://iportal.postoffice.net/Portal/',
 				},
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'bug',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Adlumin Portal',
+					link: 'https://portal.adlumin.com/users/sign_in',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'Umbrella',
+					link: 'https://dashboard.umbrella.com/o/8296565/#/overview',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'ClearPass',
+					link: 'https://10.9.4.160/tips/tipsContent.action',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'Avidascend',
+					link: 'https://1887id.ascend.banktel.com/web/Approval/Dashboard',
 				},
 			],
 		},
