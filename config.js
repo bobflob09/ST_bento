@@ -228,6 +228,10 @@ const CONFIG = {
 					name: 'Avidascend',
 					link: 'https://1887id.ascend.banktel.com/web/Approval/Dashboard',
 				},
+				{
+					name: 'Lanvera',
+					link: 'https://portalr2.lanvera.com/LV2/',
+				},
 			],
 		},
 	],
