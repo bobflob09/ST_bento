@@ -154,6 +154,10 @@ const CONFIG = {
 					name: 'H360 Report Writer',
 					link: 'http://bocif-hrz360/bank01bi/bi/',
 				},
+				{
+					name: 'H360 Report Writer',
+					link: 'http://bocif-hrz360/bank01bi/bi/',
+				},
 			],
 		},
 		{
